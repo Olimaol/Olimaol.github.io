@@ -9,6 +9,10 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
+    
+
+
     <div class="container">
         <h1>Test Heading</h1>
         
@@ -27,11 +31,43 @@
             <label for="id3">3rd label</label>
         </div>
 
+        <script>check_and_lock();</script>
+        <!--
+        <script>saveToFirebase("test");</script>
+        -->
+        
+        
         <div class="group">
-            <input type="button" value="Fenster schließen" onClick="check()">
+            <input type="button" value="senden" onClick="saveToFirebase()">
         </div>
        
     </div>
+
+
+
+    
+    <script src="https://www.gstatic.com/firebasejs/8.9.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.9.0/firebase-database.js"></script>
+
+    <script>
+        // Your web app's Firebase configuration
+        // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+        const firebaseConfig = {
+          apiKey: "AIzaSyDzOt2lMiIvqMQMbK5QxW62apEMHRA3-tc",
+          authDomain: "wunschliste-47b6a.firebaseapp.com",
+          projectId: "wunschliste-47b6a",
+          storageBucket: "wunschliste-47b6a.appspot.com",
+          messagingSenderId: "471118395784",
+          appId: "1:471118395784:web:37da0031dad7bed559223d",
+          measurementId: "G-B70HF6N5T9",
+          databaseURL: "https://wunschliste-47b6a-default-rtdb.europe-west1.firebasedatabase.app/"
+        };
+      
+        // Initialize Firebase
+        firebase.initializeApp(firebaseConfig);
+    </script>
+    
+
 </body>
 </html>
 
