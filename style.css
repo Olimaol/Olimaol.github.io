@@ -1,12 +1,23 @@
 h1 {
-  margin-left: 1%;
+  margin-left: 10px;
   background-color: greenyellow;
   text-align: left;
 }
 
+label {
+  width: 90%;
+  display: inline-block;
+  text-align: left;
+  vertical-align: top;
+}
+
 input[type=checkbox] {
-  margin-left: 2%;
-  margin-bottom: 10px;
+  margin-left: 20px;
+  margin-top: 5px;
+}
+
+div[id="buttons"] {
+  margin-left: 100px;
 }
 
 input[type=checkbox]:checked + label {
