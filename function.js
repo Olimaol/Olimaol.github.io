@@ -52,7 +52,7 @@ function send_check_status(element, index, array) {
     });
 }
 
-function send_checks(params) {
+function send_checks() {
     // lock all checkboxes which are checked
     const checked_cb_list = document.querySelectorAll('input[type="checkbox"]:checked');
     checked_cb_list.forEach(lock_element);
@@ -60,6 +60,39 @@ function send_checks(params) {
     // send for each cb the checked status to firebase
     const cb_list = document.querySelectorAll('input[type="checkbox"]');
     cb_list.forEach(send_check_status);
+}
 
+function receive_checkstatus(element, index, array) {
+    // get checkboxid
+    id=element.id;
 
+    // read checkstatus from firebase and update checkboxstatus
+    var checkStatusRef = firebase.database().ref('checkboxes/' + id + '/checked');
+    checkStatusRef.on('value', (snapshot) => {
+        const data = snapshot.val();
+        element.checked = data;
+        // if checkbox == checked --> lock it
+        if (data==true) {
+            element.disabled=true;
+        } else {
+            element.disabled=false;
+        }
+    });
+}
+
+function lock_checked(element, index, array) {
+    if (element.checked == true) {
+        element.disabled = true;
+    }
+}
+
+function lock_all_checked() {
+    const cb_list = document.querySelectorAll('input[type="checkbox"]');
+    cb_list.forEach(lock_checked);
+}
+
+function initialize_checkboxes() {
+    // go over each checkbox id, load checked status from firebase, set the checked status
+    const cb_list = document.querySelectorAll('input[type="checkbox"]');
+    cb_list.forEach(receive_checkstatus);
 }
