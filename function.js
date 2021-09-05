@@ -114,13 +114,16 @@ function check_pswd() {
     var pswdRef = firebase.database().ref('password');
     pswdRef.on('value', (snapshot) => {
         const pass1 = snapshot.val();
+
+        password=prompt('Passwort:',' ');
+        if (password==pass1) {
+            alert('Richtig! OK drücken zum fortfahren!');
+        }
+        if (password!=pass1) {
+            window.location="index.html";
+        } 
     });
 
-    password=prompt('Passwort:',' '); 
-    if (password==pass1) 
-        alert('Correct Password! Click OK to Enter!'); 
-    else {
-        window.location="index.html"; 
-    } 
+    
 }
 
