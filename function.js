@@ -96,3 +96,31 @@ function initialize_checkboxes() {
     const cb_list = document.querySelectorAll('input[type="checkbox"]');
     cb_list.forEach(receive_checkstatus);
 }
+
+function unlock_cb(element, index, array) {
+    element.disabled = false;
+}
+
+function unlock_all() {
+    if (confirm("Gesperrte Checkboxen wirklich wieder entsperren?\n Die Häkchen werden dadurch nicht verändert.\n Man kann allerdings die gesperrten Häkchen wieder bearbeiten.\n Um Änderungen zu speichern, erneut auf Speichern drücken!")) {
+        const cb_list = document.querySelectorAll('input[type="checkbox"]:disabled');
+        cb_list.forEach(unlock_cb);
+    }
+}
+
+function check_pswd() {
+    var password;
+
+    var pswdRef = firebase.database().ref('password');
+    pswdRef.on('value', (snapshot) => {
+        const pass1 = snapshot.val();
+    });
+
+    password=prompt('Passwort:',' '); 
+    if (password==pass1) 
+        alert('Correct Password! Click OK to Enter!'); 
+    else {
+        window.location="index.html"; 
+    } 
+}
+

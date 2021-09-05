@@ -1,12 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <script src="function.js" type="text/JavaScript"></script>
+    <title>Checkboxes</title>
     <link rel="stylesheet" href="style.css">
+    <script src="function.js" type="text/JavaScript"></script>
+    <script>checkPswd()</script>
 </head>
 <body>
 
@@ -25,7 +26,7 @@
     
     <div class="group">
         <input type="checkbox" id="cb3" disabled=true>
-        <label for="cb3">Baby Fotoalbum (wo man auch Daten eintragen kann) Lorem ipsum dolor sit, amet consectetur adipisicing elit. Omnis harum ipsum, ut quae pariatur tenetur, quod corrupti accusamus alias saepe ea? Nam ratione tempore pariatur at quo reprehenderit fuga ipsum?</label>
+        <label for="cb3">Baby Fotoalbum (wo man auch Daten eintragen kann)</label>
     </div>
     
     <div class="group">
@@ -68,10 +69,10 @@
         <label for="cb11">Hochstuhl (der mitwächst)</label>
     </div>
     
-    <!--<div class="group" id="buttons">
-        <input type="button" value="senden" onClick="send_checks()">
-        <input type="button" value="senden" onClick="send_checks()">
-    </div>-->
+    <div class="group" id="buttons">
+        <input type="button" value="Speichern" onClick="send_checks()">
+        <input type="button" value="Entsperren" onClick="unlock_all()">
+    </div>
        
 
     
@@ -98,7 +99,7 @@
     </script>
     
     
-    <!--<script>initialize_checkboxes()</script>-->
+    <script>initialize_checkboxes()</script>
 </body>
 </html>
 
