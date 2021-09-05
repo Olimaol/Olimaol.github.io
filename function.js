@@ -115,7 +115,7 @@ function check_pswd() {
     pswdRef.on('value', (snapshot) => {
         const pass1 = snapshot.val();
 
-        password=prompt('Passwort:',' ');
+        password=prompt('Passwort:','');
         if (password==pass1) {
             alert('Richtig! OK drücken zum fortfahren!');
         }
