@@ -1,108 +1,204 @@
 <!DOCTYPE html>
-<html lang="de">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Checkboxes</title>
-    <link rel="stylesheet" href="style.css">
-    <script src="function.js" type="text/JavaScript"></script>
+<html lang="en">
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-black.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="style.css">
+<style>
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
+.w3-sidebar {
+  z-index: 3;
+  width: 250px;
+  top: 43px;
+  bottom: 0;
+  height: inherit;
+}
+</style>
 
-    <script src="https://www.gstatic.com/firebasejs/8.9.0/firebase-app.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/8.9.0/firebase-database.js"></script>
+<script src="function.js" type="text/JavaScript"></script>
+<script src="https://www.gstatic.com/firebasejs/8.9.0/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.9.0/firebase-database.js"></script>
 
-    <script>
-        // Your web app's Firebase configuration
-        // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-        const firebaseConfig = {
-          apiKey: "AIzaSyDzOt2lMiIvqMQMbK5QxW62apEMHRA3-tc",
-          authDomain: "wunschliste-47b6a.firebaseapp.com",
-          projectId: "wunschliste-47b6a",
-          storageBucket: "wunschliste-47b6a.appspot.com",
-          messagingSenderId: "471118395784",
-          appId: "1:471118395784:web:37da0031dad7bed559223d",
-          measurementId: "G-B70HF6N5T9",
-          databaseURL: "https://wunschliste-47b6a-default-rtdb.europe-west1.firebasedatabase.app/"
-        };
-      
-        // Initialize Firebase
-        firebase.initializeApp(firebaseConfig);
-    </script>
-    <script>check_pswd()</script>
+<script>
+    // Your web app's Firebase configuration
+    // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+    const firebaseConfig = {
+      apiKey: "AIzaSyDzOt2lMiIvqMQMbK5QxW62apEMHRA3-tc",
+      authDomain: "wunschliste-47b6a.firebaseapp.com",
+      projectId: "wunschliste-47b6a",
+      storageBucket: "wunschliste-47b6a.appspot.com",
+      messagingSenderId: "471118395784",
+      appId: "1:471118395784:web:37da0031dad7bed559223d",
+      measurementId: "G-B70HF6N5T9",
+      databaseURL: "https://wunschliste-47b6a-default-rtdb.europe-west1.firebasedatabase.app/"
+    };
+  
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+</script>
+<script>pswd_correct=check_pswd()</script>
 
-</head>
 <body>
 
-    
-    <h1>Wunschliste</h1>
-    
-    <div class="group">
-        <input type="checkbox" id="cb1" disabled=true>
-        <label for="cb1">Spieluhrkuscheltier</label>
-    </div>
-    
-    <div class="group">
-        <input type="checkbox" id="cb2" disabled=true>
-        <label for="cb2">Krabbeldecke</label>
-    </div>
-    
-    <div class="group">
-        <input type="checkbox" id="cb3" disabled=true>
-        <label for="cb3">Baby Fotoalbum (wo man auch Daten eintragen kann)</label>
-    </div>
-    
-    <div class="group">
-        <input type="checkbox" id="cb4" disabled=true>
-        <label for="cb4">Reisebett</label>
-    </div>
-    
-    <div class="group">
-        <input type="checkbox" id="cb5" disabled=true>
-        <label for="cb5">Badehandtuch</label>
-    </div>
-    
-    <div class="group">
-        <input type="checkbox" id="cb6" disabled=true>
-        <label for="cb6">Spielbogen</label>
-    </div>
-    
-    <div class="group">
-        <input type="checkbox" id="cb7" disabled=true>
-        <label for="cb7">Spiegel für Autositz</label>
-    </div>
-    
-    <div class="group">
-        <input type="checkbox" id="cb8" disabled=true>
-        <label for="cb8">Sonnenblenden für Autositz</label>
-    </div>
-    
-    <div class="group">
-        <input type="checkbox" id="cb9" disabled=true>
-        <label for="cb9">Kinderwagenspielkette</label>
-    </div>
-    
-    <div class="group">
-        <input type="checkbox" id="cb10" disabled=true>
-        <label for="cb10">Breischale und Löffel</label>
-    </div>
-    
-    <div class="group">
-        <input type="checkbox" id="cb11" disabled=true>
-        <label for="cb11">Hochstuhl (der mitwächst)</label>
-    </div>
-    
-    <div class="group" id="buttons">
-        <input type="button" value="Speichern" onClick="send_checks()">
-        <input type="button" value="Entsperren" onClick="unlock_all()">
-    </div>
-       
+<!-- Navbar -->
+<div class="w3-top">
+  <div class="w3-bar w3-theme w3-top w3-left-align w3-large">
+    <a class="w3-bar-item w3-button w3-right w3-hide-large w3-hover-white w3-large w3-theme-l1" href="javascript:void(0)" onclick="w3_open()"><i class="fa fa-bars"></i></a>
+    <a href="#" class="w3-bar-item w3-button w3-theme-l1">Wunschliste</a>
+  </div>
+</div>
 
-    
-    
-    
-    
-    
-    <script>initialize_checkboxes()</script>
+<!-- Sidebar -->
+<nav class="w3-sidebar w3-bar-block w3-collapse w3-large w3-theme-l5 w3-animate-left" id="mySidebar">
+  <a href="javascript:void(0)" onclick="w3_close()" class="w3-right w3-xlarge w3-padding-large w3-hover-black w3-hide-large" title="Close Menu">
+    <i class="fa fa-remove"></i>
+  </a>
+  <h4 class="w3-bar-item"><b>Men&uuml</b></h4>
+  <a class="w3-bar-item w3-button w3-hover-black" href="#list1">Liste 1</a>
+  <a class="w3-bar-item w3-button w3-hover-black" href="#list2">Liste 2</a>
+</nav>
+
+<!-- Overlay effect when opening sidebar on small screens -->
+<div class="w3-overlay w3-hide-large" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+
+<!-- Main content: shift it to the right by 250 pixels when the sidebar is visible -->
+<div class="w3-main" style="margin-left:250px" id="main_content">
+
+  <div class="w3-row w3-padding-top-64">
+    <div class="w3-mobile w3-container">
+      <h1 class="w3-text-teal">Unsere Wunschliste</h1>
+      <p>
+        Ihr wollt dem Kleinen etwas zur Geburt schenken? Dann könnt ihr euch gern etwas von dieser Wunschliste aussuchen.
+      </p>
+    </div>
+  </div>
+
+  <div class="w3-row w3-padding-top-32" id="list1">
+    <div class="w3-mobile w3-container">
+      <h1 class="w3-text-teal">Liste 1</h1>
+      <p>
+        Diese Liste zeigt Dinge, die wir nicht unbedingt mehrmals brauchen werden.
+        Falls ihr etwas von dieser Liste schenken wollt, hakt den Gegenstand ab, damit andere sehen, dass er bereits geschenkt wird.
+        Vergesst nicht unten auf <b>Speichern</b> zu drücken!
+        Falls ihr euch doch nochmal umentscheiden solltet, könnt ihr mit dem Button "Entsperren" die gesperrten Häkchen kurzzeitig entsperren und somit gespeicherte Häkchen wieder entfernen.
+      </p>
+      <p>
+        <input class="w3-check" type="checkbox" id="cb1">
+        <label for="cb1">Spieluhrkuscheltier</label>
+      </p>
+      <p>
+        <input class="w3-check" type="checkbox" id="cb2">
+        <label for="cb2">Krabbeldecke</label>
+      </p>
+      <p>
+        <input class="w3-check" type="checkbox" id="cb3">
+        <label for="cb3">Baby Fotoalbum (wo man auch Daten eintragen kann)</label>
+      </p>
+      <p>
+        <input class="w3-check" type="checkbox" id="cb4">
+        <label for="cb4">Reisebett</label>
+      </p>
+      <p>
+        <input class="w3-check" type="checkbox" id="cb5">
+        <label for="cb5">Badehandtuch</label>
+      </p>
+      <p>
+        <input class="w3-check" type="checkbox" id="cb6">
+        <label for="cb6">Spielbogen</label>
+      </p>
+      <p>
+        <input class="w3-check" type="checkbox" id="cb7">
+        <label for="cb7">Spiegel für Autositz</label>
+      </p>
+      <p>
+        <input class="w3-check" type="checkbox" id="cb8">
+        <label for="cb8">Sonnenblenden für Autositz</label>
+      </p>
+      <p>
+        <input class="w3-check" type="checkbox" id="cb9">
+        <label for="cb9">Kinderwagenspielkette</label>
+      </p>
+      <p>
+        <input class="w3-check" type="checkbox" id="cb10">
+        <label for="cb10">Breischale und Löffel</label>
+      </p>
+      <p>
+        <input class="w3-check" type="checkbox" id="cb11">
+        <label for="cb11">Hochstuhl (der mitwächst)</label>
+      </p>
+    </div>
+  </div>
+
+  <script>
+    initialize_checkboxes()
+    setInterval(function(){
+      myFunction()
+    }, 20000)
+  </script>
+
+  <div class="w3-row w3-padding-top-32"  id="list2">
+    <div class="w3-mobile w3-container">
+      <h1 class="w3-text-teal">Liste 2</h1>
+      <p>
+        Diese Sachen kann man auch mehrmals gebrauchen. Also gern etwas heraussuchen, aber hier ohne abhaken.
+      </p>
+      <ul class="w3-ul">
+        <li class="w3-hover-teal">Bei&szlig;ringe</li>
+        <li class="w3-hover-teal">Spielsachen (am liebsten aus Holz oder Stoff)</li>
+        <li class="w3-hover-teal">Kuscheltiere</li>
+        <li class="w3-hover-teal">F&uuml;hlb&uuml;cher</li>
+        <li class="w3-hover-teal">Knisterb&uuml;cher</li>
+        <li class="w3-hover-teal">Waschlappen</li>
+        <li class="w3-hover-teal">Kleidung (ab Gr&ouml;&szlig;e 56, gern auch gr&ouml;&szlig;er)</li>
+        <li class="w3-hover-teal">L&auml;tzchen</li>
+        <li class="w3-hover-teal">Schmuset&uuml;cher</li>
+      </ul> 
+    </div>
+  </div>
+
+  <footer id="myFooter">
+    <div class="w3-container w3-white">
+    </div>
+  </footer>
+
+  <div class="w3-bottom">
+    <div class="w3-bar w3-theme w3-large" id="bottom">
+      <input type="button" class="w3-button w3-theme-l5 w3-hover-teal w3-round" value="Speichern"  onClick="send_checks()">
+      <input type="button" class="w3-button w3-theme-l5 w3-hover-teal w3-round" value="Entsperren" onClick="unlock_all()">
+    </div>
+  </div>
+
+<!-- END MAIN -->
+</div>
+
+<script>
+// Get the Sidebar
+var mySidebar = document.getElementById("mySidebar");
+
+// Get the DIV with overlay effect
+var overlayBg = document.getElementById("myOverlay");
+
+// Toggle between showing and hiding the sidebar, and add overlay effect
+function w3_open() {
+  if (mySidebar.style.display === 'block') {
+    mySidebar.style.display = 'none';
+    overlayBg.style.display = "none";
+  } else {
+    mySidebar.style.display = 'block';
+    overlayBg.style.display = "block";
+  }
+}
+
+// Close the sidebar with the close button
+function w3_close() {
+  mySidebar.style.display = "none";
+  overlayBg.style.display = "none";
+}
+</script>
+
 </body>
 </html>
-

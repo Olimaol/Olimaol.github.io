@@ -108,8 +108,18 @@ function unlock_all() {
     }
 }
 
+function make_el_vis(element, index, array) {
+    element.classList.toggle("m-fadeIn");
+}
+
+function make_vis() {
+    const elements = document.querySelectorAll('*');
+    elements.forEach(make_el_vis);
+}
+
 function check_pswd() {
     var password;
+    var correct;
 
     var pswdRef = firebase.database().ref('password');
     pswdRef.on('value', (snapshot) => {
@@ -117,13 +127,15 @@ function check_pswd() {
 
         password=prompt('Passwort:','');
         if (password==pass1) {
-            alert('Richtig! OK drücken zum fortfahren!');
+            correct=true;
+            make_vis();
         }
         if (password!=pass1) {
             window.location="index.html";
+            correct=false;
         } 
     });
-
-    
+    return correct;
 }
+
 

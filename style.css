@@ -1,27 +1,24 @@
-h1 {
-  margin-left: 10px;
-  background-color: greenyellow;
-  text-align: left;
-}
-
-label {
-  width: 90%;
-  display: inline-block;
-  text-align: left;
-  vertical-align: top;
-}
-
-input[type=checkbox] {
-  margin-left: 20px;
-  margin-top: 5px;
-}
-
-div[id="buttons"] {
-  margin-left: 100px;
-  margin-top: 5px;
-}
-
 input[type=checkbox]:checked + label {
-  color:lightgrey;
-  text-decoration: line-through;
+    color:lightgrey;
+    text-decoration: line-through;
 }
+
+#bottom {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+
+#myFooter {
+    padding-top: 100vh;
+}
+
+* {
+    visibility: hidden;
+}
+
+.m-fadeIn {
+    visibility: visible;
+    opacity: 1;
+    transition: visibility 0s linear 0s, opacity 300ms;
+  }
