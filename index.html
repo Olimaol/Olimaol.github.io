@@ -22,6 +22,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 <script src="function.js" type="text/JavaScript"></script>
 <script src="https://www.gstatic.com/firebasejs/8.9.0/firebase-app.js"></script>
 <script src="https://www.gstatic.com/firebasejs/8.9.0/firebase-database.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.9.0/firebase-auth.js"></script>
 
 <script>
     // Your web app's Firebase configuration
@@ -39,8 +40,18 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
   
     // Initialize Firebase
     firebase.initializeApp(firebaseConfig);
+
+    // authenticate user of the side
+    firebase.auth().signInAnonymously()
+    .then(() => {
+      // Signed in.. check pswd
+      pswd_correct=check_pswd();
+    })
+    .catch((error) => {
+      var errorCode = error.code;
+      var errorMessage = error.message;
+    });
 </script>
-<script>pswd_correct=check_pswd()</script>
 
 <body>
 
