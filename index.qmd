@@ -1,0 +1,21 @@
+---
+toc: false
+---
+
+# Oliver Maith
+
+![](images/profile.JPG){.preview-image width=40%}
+
+Hi I'm Oliver
+
+I am highly interested in computational neuroscience, modeling neuronal processes related to cognitive processes and neurophysiological disease. Currently, I am working on linking neuronal data from different scales to computational models of the functional and dysfunctional basal ganglia.
+
+[{{< fa envelope size=2x title="Email" >}}](mailto:oliver.maith@informatik.tu-chemnitz.de)
+
+[{{< fa brands github size=2x title="GitHub" >}}](https://github.com/Olimaol)
+
+[{{< fa brands orcid size=2x title="ORCID" >}}](https://orcid.org/0000-0002-6446-9110)
+
+[{{< ai google-scholar size=2x title="Google Scholar" >}}](https://scholar.google.de/citations?hl=de&user=OnNtaasAAAAJ)
+
+[{{< ai researchgate size=2x title="ResearchGate" >}}](https://www.researchgate.net/profile/Oliver-Maith)

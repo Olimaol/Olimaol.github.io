@@ -1,0 +1,28 @@
+---
+title: "Research"
+---
+
+Projects on which I work
+
+On the Research site each top-level project gets a small introduction text
+
+Each top-level project gets an own page with more detailed summary texts, figures, related publications and supervised bachelor/master theses
+
+structure:
+
+## [Neurocognition - Basal Ganglia](research/neurocognition.qmd)
+- stn-gpe learning
+- stop signal task
+- attention learning
+- eriks MA
+
+## [DBS & Parkinson's Disease](research/dbs_parkinson.qmd)
+- Parkinson fit paper
+- submitted DBS paper
+- jil maier paper
+- Ilianas MA + fitting arbeiten
+- daves BA
+
+## [Neuroinformatics](research/neuroinformatics.qmd)
+- BOLD simulation
+- CompNeuroPy

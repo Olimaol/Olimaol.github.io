@@ -1,0 +1,6 @@
+---
+title: "Neuroinformatics"
+---
+
+- BOLD simulation
+- CompNeuroPy
