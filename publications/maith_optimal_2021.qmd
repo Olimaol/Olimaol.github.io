@@ -1,0 +1,32 @@
+---
+title: "Optimal attention tuning in a neuro-computational model of the visual cortex–basal ganglia–prefrontal cortex loop"
+type: "article"
+author:
+  - name: Oliver Maith
+    orcid: 0000-0002-6446-9110
+    affiliation:
+      - ref: tuchemnitz
+  - name: Alex Schwarz
+    orcid: 0000-0003-4346-481X
+    affiliation:
+      - ref: tuchemnitz
+  - name: Fred Hamker
+    orcid: 0000-0001-9104-7143
+    affiliation:
+      - ref: tuchemnitz
+affiliations:
+  - id: tuchemnitz
+    name: Chemnitz University of Technology
+    url: https://www.tu-chemnitz.de/informatik/KI/index.php.en
+year: "2021"
+publication: "Neural Networks"
+doi: "10.1016/j.neunet.2021.07.008"
+toc: false
+categories:
+  - journal article
+abstract: |
+  Visual attention is widely considered a vital factor in the perception and analysis of a visual scene. Several studies explored the effects and mechanisms of top-down attention, but the mechanisms that determine the attentional signal are less explored. By developing a neuro-computational model of visual attention including the visual cortex–basal ganglia loop, we demonstrate how attentional alignment can evolve based on dopaminergic reward during a visual search task. Unlike most previous modeling studies of feature-based attention, we do not implement a manually predefined attention template. Dopamine-modulated covariance learning enable the basal ganglia to learn rewarded associations between the visual input and the attentional gain represented in the PFC of the model. Hence, the model shows human-like performance on a visual search task by optimally tuning the attention signal. In particular, similar as in humans, this reward-based tuning in the model leads to an attentional template that is not centered on the target feature, but a relevant feature deviating away from the target due to the presence of highly similar distractors. Further analyses of the model shows, attention is mainly guided by the signal-to-noise ratio between target and distractors.
+---
+
+> Maith, O., Schwarz, A., & Hamker, F. H. (2021). Optimal attention tuning in a neuro-computational model of the visual cortex–basal ganglia–prefrontal cortex loop. *Neural Networks*, *142*, 534–547. https://doi.org/10.1016/j.neunet.2021.07.008
+

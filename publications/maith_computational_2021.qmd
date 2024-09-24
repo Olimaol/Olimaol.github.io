@@ -1,0 +1,53 @@
+---
+title: "A computational model-based analysis of basal ganglia pathway changes in Parkinson’s disease inferred from resting-state fMRI"
+type: "article"
+author:
+  - name: Oliver Maith
+    orcid: 0000-0002-6446-9110
+    affiliation:
+      - ref: tuchemnitz
+  - name: Francesc Villagrasa Escudero
+    orcid: 0000-0003-0149-6231
+    affiliation:
+      - ref: tuchemnitz
+  - name: Helge Ü. Dinkelbach
+    orcid: 0000-0002-8871-8177
+    affiliation:
+      - ref: tuchemnitz
+  - name: Javier Baladron
+    orcid: 0000-0003-4084-4905
+    affiliation:
+      - ref: tuchemnitz
+  - name: Andreas Horn
+    orcid: 0000-0002-0695-6025
+    affiliation:
+      - ref: berlinmovement
+  - name: Friederike Irmen
+    orcid: 0000-0001-5574-3790
+    affiliation:
+      - ref: berlinmovement
+  - name: Andrea A. Kühn
+    orcid: 0000-0002-4134-9060
+    affiliation:
+      - ref: berlinmovement
+  - name: Fred Hamker
+    orcid: 0000-0001-9104-7143
+    affiliation:
+      - ref: tuchemnitz
+affiliations:
+  - id: tuchemnitz
+    name: Department of Computer Science, Chemnitz University of Technology, Chemnitz, Germany
+    url: https://www.tu-chemnitz.de/informatik/KI/index.php.en
+  - id: berlinmovement
+    name: Movement Disorders and Neuromodulation Unit, Department for Neurology, Charité–University Medicine Berlin, Berlin, Germany
+year: "2021"
+publication: "European Journal of Neuroscience"
+doi: "10.1111/ejn.14868"
+toc: false
+categories:
+  - journal article
+abstract: |
+  Previous computational model-based approaches for understanding the dynamic changes related to Parkinson's disease made particular assumptions about Parkinson's disease-related activity changes or specified dopamine-dependent activation or learning rules. Inspired by recent model-based analysis of resting-state fMRI, we have taken a data-driven approach. We fit the free parameters of a spiking neuro-computational model to match correlations of blood oxygen level-dependent signals between different basal ganglia nuclei and obtain subject-specific neuro-computational models of two subject groups: Parkinson patients and matched controls. When comparing mean firing rates at rest and connectivity strengths between the control and Parkinsonian model groups, several significant differences were found that are consistent with previous experimental observations. We discuss the implications of our approach and compare its results also with the popular “rate model” of the basal ganglia. Our study suggests that a model-based analysis of imaging data from healthy and Parkinsonian subjects is a promising approach for the future to better understand Parkinson-related changes in the basal ganglia and corresponding treatments.
+---
+
+> Maith, O., Escudero, F. V., Dinkelbach, H. Ü., Baladron, J., Horn, A., Irmen, F., Kühn, A. A., & Hamker, F. H. (2021). A computational model-based analysis of basal ganglia pathway changes in Parkinson’s disease inferred from resting-state fMRI. *European Journal of Neuroscience*, *53*(7), 2278–2295. https://doi.org/10.1111/ejn.14868

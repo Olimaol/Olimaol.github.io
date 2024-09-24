@@ -1,0 +1,42 @@
+---
+title: "A spiking model of basal ganglia dynamics in stopping behavior supported by arkypallidal neurons"
+type: "article"
+author:
+  - name: Lorenz Gönner
+    orcid: 0000-0002-2840-8791
+    affiliation:
+      - ref: tuchemnitz
+    attributes:
+      equal-contributor: true
+  - name: Oliver Maith
+    orcid: 0000-0002-6446-9110
+    affiliation:
+      - ref: tuchemnitz
+    attributes:
+      equal-contributor: true
+  - name: Iliana Koulouri
+    affiliation:
+      - ref: tuchemnitz
+  - name: Javier Baladron
+    orcid: 0000-0003-4084-4905
+    affiliation:
+      - ref: tuchemnitz
+  - name: Fred Hamker
+    orcid: 0000-0001-9104-7143
+    affiliation:
+      - ref: tuchemnitz
+affiliations:
+  - id: tuchemnitz
+    name: Department of Computer Science, Chemnitz University of Technology, Chemnitz, Germany
+    url: https://www.tu-chemnitz.de/informatik/KI/index.php.en
+year: "2021"
+publication: "European Journal of Neuroscience"
+doi: "10.1111/ejn.15082"
+toc: false
+categories:
+  - journal article
+abstract: |
+  The common view that stopping action plans by the basal ganglia is achieved mainly by the subthalamic nucleus alone due to its direct excitatory projection onto the output nuclei of the basal ganglia has been challenged by recent findings. The proposed “pause-then-cancel” model suggests that the subthalamic nucleus provides a rapid stimulus-unspecific “pause” signal, followed by a stop-cue-specific “cancel” signal from striatum-projecting arkypallidal neurons. To determine more precisely the relative contribution of the different basal ganglia nuclei in stopping, we simulated a stop-signal task with a spiking neuron model of the basal ganglia, considering recently discovered connections from the arkypallidal neurons, and cortex-projecting GPe neurons. For the arkypallidal and prototypical GPe neurons, we obtained neuron model parameters by fitting their neuronal responses to published experimental data. Our model replicates findings of stop-signal tasks at neuronal and behavioral levels. We provide evidence for the existence of a stop-related cortical input to the arkypallidal and cortex-projecting GPe neurons such that the stop responses of the subthalamic nucleus, the arkypallidal neurons, and the cortex-projecting GPe neurons complement each other to achieve functional stopping behavior. Particularly, the cortex-projecting GPe neurons may complement the stopping within the basal ganglia caused by the arkypallidal and STN neurons by diminishing cortical go-related processes. Furthermore, we predict effects of lesions on stopping performance and propose that arkypallidal neurons mainly participate in stopping by inhibiting striatal neurons of the indirect rather than the direct pathway.
+---
+
+> Goenner\*, L., Maith\*, O., Koulouri, I., Baladron, J., & Hamker, F. H. (2021). A spiking model of basal ganglia dynamics in stopping behavior supported by arkypallidal neurons. *European Journal of Neuroscience*, *53*(7), 2296–2321. https://doi.org/10.1111/ejn.15082

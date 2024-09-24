@@ -1,0 +1,42 @@
+---
+title: "Exploration behavior after reversals is predicted by STN-GPe synaptic plasticity in a basal ganglia model"
+type: "article"
+author:
+  - name: Oliver Maith
+    orcid: 0000-0002-6446-9110
+    affiliation:
+      - ref: tuchemnitz
+  - name: Javier Baladron
+    orcid: 0000-0003-4084-4905
+    affiliation:
+      - ref: tuchemnitz
+      - ref: chile
+  - name: Wolfgang Einhäuser
+    orcid: 0000-0001-7516-9589
+    affiliation:
+      - ref: tuchemnitzphysik
+  - name: Fred Hamker
+    orcid: 0000-0001-9104-7143
+    affiliation:
+      - ref: tuchemnitz
+affiliations:
+  - id: tuchemnitz
+    name: Department of Computer Science, Chemnitz University of Technology, Chemnitz, Germany
+    url: https://www.tu-chemnitz.de/informatik/KI/index.php.en
+  - id: chile
+    name: Departamento de Ingeniería Informática, Universidad de Santiago de Chile, Santiago, Chile
+    url: https://informatica.usach.cl/academico/javier-baladron-pezoa/
+  - id: tuchemnitzphysik
+    name: Institute of Physics, Chemnitz University of Technology, Chemnitz, Germany
+    url: https://www.tu-chemnitz.de/physik/PHKP/index.html.en
+year: "2023"
+publication: "iScience"
+doi: "10.1016/j.isci.2023.106599"
+toc: false
+categories:
+  - journal article
+abstract: |
+  Humans can quickly adapt their behavior to changes in the environment. Classical reversal learning tasks mainly measure how well participants can disengage from a previously successful behavior but not how alternative responses are explored. Here, we propose a novel 5-choice reversal learning task with alternating position-reward contingencies to study exploration behavior after a reversal. We compare human exploratory saccade behavior with a prediction obtained from a neuro-computational model of the basal ganglia. A new synaptic plasticity rule for learning the connectivity between the subthalamic nucleus (STN) and external globus pallidus (GPe) results in exploration biases to previously rewarded positions. The model simulations and human data both show that during experimental experience exploration becomes limited to only those positions that have been rewarded in the past. Our study demonstrates how quite complex behavior may result from a simple sub-circuit within the basal ganglia pathways.
+---
+
+> Maith, O., Baladron, J., Einhäuser, W., & Hamker, F. H. (2023). Exploration behavior after reversals is predicted by STN-GPe synaptic plasticity in a basal ganglia model. *iScience*, *26*(5). https://doi.org/10.1016/j.isci.2023.106599

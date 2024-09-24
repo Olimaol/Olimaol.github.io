@@ -1,0 +1,70 @@
+---
+title: "Virtual deep brain stimulation: Multiscale co-simulation of a spiking basal ganglia model and a whole-brain mean-field model with The Virtual Brain"
+type: "article"
+author: 
+
+  - name: Jil M. Meier
+    orcid: 0000-0001-5196-1627
+    affiliation:
+      - ref: berlin
+      - ref: charite
+  - name: Dionysios Perdikis
+    orcid: 0000-0003-0103-7094
+    affiliation:
+      - ref: berlin
+      - ref: charite
+  - name: André Blickensdörfer
+    orcid: 0000-0002-9464-1727
+    affiliation:
+      - ref: berlin
+      - ref: charite
+  - name: Leon Stefanovski
+    orcid: 0000-0003-0197-2576
+    affiliation:
+      - ref: berlin
+      - ref: charite
+  - name: Qin Liu
+    orcid: 0000-0003-2213-9452
+    affiliation:
+      - ref: berlin
+      - ref: charite
+  - name: Oliver Maith
+    orcid: 0000-0002-6446-9110
+    affiliation:
+      - ref: tuchemnitz
+  - name: Helge Ü. Dinkelbach
+    orcid: 0000-0002-8871-8177
+    affiliation:
+      - ref: tuchemnitz
+  - name: Javier Baladron
+    orcid: 0000-0003-4084-4905
+    affiliation:
+      - ref: tuchemnitz
+  - name: Fred Hamker
+    orcid: 0000-0001-9104-7143
+    affiliation:
+      - ref: tuchemnitz
+  - name: Petra Ritter
+    orcid: 0000-0002-4643-4782
+    affiliation:
+      - ref: berlin
+      - ref: charite
+affiliations:
+  - id: tuchemnitz
+    name: Department of Computer Science, Chemnitz University of Technology, Chemnitz, Germany
+    url: https://www.tu-chemnitz.de/informatik/KI/index.php.en
+  - id: charite
+    name: Charité – Universitätsmedizin Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Department of Neurology with Experimental Neurology, Brain Simulation Section, Berlin, Germany
+  - id: berlin
+    name: Berlin Institute of Health at Charité – Universitätsmedizin Berlin, Berlin, Germany
+year: "2022"
+publication: "Experimental Neurology"
+doi: "10.1016/j.expneurol.2022.114111"
+toc: false
+categories:
+  - journal article
+abstract: |
+  Deep brain stimulation (DBS) has been successfully applied in various neurodegenerative diseases as an effective symptomatic treatment. However, its mechanisms of action within the brain network are still poorly understood. Many virtual DBS models analyze a subnetwork around the basal ganglia and its dynamics as a spiking network with their details validated by experimental data. However, connectomic evidence shows widespread effects of DBS affecting many different cortical and subcortical areas. From a clinical perspective, various effects of DBS besides the motoric impact have been demonstrated. The neuroinformatics platform The Virtual Brain (TVB) offers a modeling framework allowing us to virtually perform stimulation, including DBS, and forecast the outcome from a dynamic systems perspective prior to invasive surgery with DBS lead placement. For an accurate prediction of the effects of DBS, we implement a detailed spiking model of the basal ganglia, which we combine with TVB via our previously developed co-simulation environment. This multiscale co-simulation approach builds on the extensive previous literature of spiking models of the basal ganglia while simultaneously offering a whole-brain perspective on widespread effects of the stimulation going beyond the motor circuit. In the first demonstration of our model, we show that virtual DBS can move the firing rates of a Parkinson's disease patient's thalamus - basal ganglia network towards the healthy regime while, at the same time, altering the activity in distributed cortical regions with a pronounced effect in frontal regions. Thus, we provide proof of concept for virtual DBS in a co-simulation environment with TVB. The developed modeling approach has the potential to optimize DBS lead placement and configuration and forecast the success of DBS treatment for individual patients.
+---
+
+> Meier, J. M., Perdikis, D., Blickensdörfer, A., Stefanovski, L., Liu, Q., Maith, O., Dinkelbach, H. Ü., Baladron, J., Hamker, F. H., & Ritter, P. (2022). Virtual deep brain stimulation: Multiscale co-simulation of a spiking basal ganglia model and a whole-brain mean-field model with The Virtual Brain. *Experimental Neurology*, *354*, 114111. https://doi.org/10.1016/j.expneurol.2022.114111
