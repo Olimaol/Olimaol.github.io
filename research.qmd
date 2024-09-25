@@ -24,5 +24,6 @@ structure:
 - daves BA
 
 ## [Neuroinformatics](research/neuroinformatics.qmd)
-- BOLD simulation
+- ANNarchy BOLD monitor
+- Simulating Deep Brain Stimulation
 - CompNeuroPy

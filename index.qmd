@@ -1,21 +1,44 @@
 ---
-toc: false
+title: "M.Sc. Oliver Maith"
+about:
+  template: jolla
+  image: images/profile.JPG
+format:
+  html:
+    include-in-header:
+      - text: |
+          <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
+          <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
+          <link href="site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
+          <link href="site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet">
 ---
 
-# Oliver Maith
+{{< fa briefcase size=1x title="Email" >}}&nbsp;&nbsp;PhD Student at [Professorship Artificial Intelligence, TU Chemnitz](https://www.tu-chemnitz.de/informatik/KI/index.php.en)
 
-![](images/profile.JPG){.preview-image width=40%}
+I have a strong interest in computational neuroscience, particularly in modeling neuronal processes related to cognition and neurophysiological disorders. My current work focuses on simulating Deep Brain Stimulation, exploring the behavioral functions of the basal ganglia, and integrating neuronal data across different scales with computational models of both the functional and dysfunctional basal ganglia.
 
-Hi I'm Oliver
+<hr class="about-sep center-block">
 
-I am highly interested in computational neuroscience, modeling neuronal processes related to cognitive processes and neurophysiological disease. Currently, I am working on linking neuronal data from different scales to computational models of the functional and dysfunctional basal ganglia.
+<div class="about-links center-block">
 
-[{{< fa envelope size=2x title="Email" >}}](mailto:oliver.maith@informatik.tu-chemnitz.de)
+  <a href="mailto:oliver.maith@informatik.tu-chemnitz.de" class="about-link" rel="" target="_blank">
+    <i class="fa-solid fa-envelope"></i> <span class="about-link-text">Email</span>
+  </a>
 
-[{{< fa brands github size=2x title="GitHub" >}}](https://github.com/Olimaol)
+  <a href="https://github.com/Olimaol" class="about-link" rel="" target="_blank">
+    <i class="fa-brands fa-github"></i> <span class="about-link-text">GitHub</span>
+  </a>
 
-[{{< fa brands orcid size=2x title="ORCID" >}}](https://orcid.org/0000-0002-6446-9110)
+  <a href="https://orcid.org/0000-0002-6446-9110" class="about-link" rel="" target="_blank">
+    <i class="fa-brands fa-orcid"></i> <span class="about-link-text">ORCID</span>
+  </a>
 
-[{{< ai google-scholar size=2x title="Google Scholar" >}}](https://scholar.google.de/citations?hl=de&user=OnNtaasAAAAJ)
+  <a href="https://scholar.google.de/citations?hl=de&user=OnNtaasAAAAJ" class="about-link" rel="" target="_blank">
+    <i class="ai ai-google-scholar"></i> <span class="about-link-text">Scholar</span>
+  </a>
 
-[{{< ai researchgate size=2x title="ResearchGate" >}}](https://www.researchgate.net/profile/Oliver-Maith)
+  <a href="https://www.researchgate.net/profile/Oliver-Maith" class="about-link" rel="" target="_blank">
+    <i class="ai ai-researchgate"></i> <span class="about-link-text">ResearchGate</span>
+  </a>
+
+</div>

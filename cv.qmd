@@ -1,5 +1,178 @@
 ---
-title: "CV - Oliver Maith"
+title: "**Oliver Maith**"
+toc-depth: 2
 ---
 
-My CV
+PhD Student / Researcher in Computational Neuroscience
+
+## {{< fa suitcase size=1x >}}&nbsp;&nbsp;**Work Experience**
+
+### **Researcher, Chemnitz University of Technology**
+
+:::{.indented-paragraph}
+<span class="large-text"><i class="fa-solid fa-calendar-days fa-1x" aria-label="calendar-days"></i>&nbsp;&nbsp;Nov 2019 – Current</span>
+
+At [Professorship Artifical Intelligence](https://www.tu-chemnitz.de/informatik/KI)
+
+I primarily develop neural networks using the [ANNarchy](https://annarchy.github.io/) neural simulator in Python and produce scientific documents.
+
+* Research:
+    * Computational Neuroscience: basal ganglia, visual attention
+    * Psychophysics: eye-tracking
+    * Neuroinformatics: simulating BOLD^[Blood Oxygenation Level Dependent (BOLD) imaging is a technique that is commonly used for measuring brain activity in humans using magnetic resonance imaging (MRI)] and DBS^[Deep brain stimulation (DBS) is a surgical procedure that implants a neurostimulator and electrodes which sends electrical impulses to specified targets in the brain]
+<br></br>
+:::
+
+### **Lecturer, Chemnitz University of Technology**
+
+:::{.indented-paragraph}
+<span class="large-text"><i class="fa-solid fa-calendar-days fa-1x" aria-label="calendar-days"></i>&nbsp;&nbsp;Jul 2016 -- Mar 2019</span>
+
+At [Institute of Physics](https://www.tu-chemnitz.de/physik/S_Labor)
+
+I have taught experimental physics to students from 1st to 12th grade and supervised them during hands-on physics experiments.
+<br></br>
+:::
+
+
+## {{< fa solid graduation-cap size=1x >}}&nbsp;&nbsp;**Education**
+
+### **SmartStart 2**
+
+:::{.indented-paragraph}
+<span class="large-text"><i class="fa-solid fa-calendar-days fa-1x" aria-label="calendar-days"></i>&nbsp;&nbsp;2019 -- 2020</span>
+
+[The joint training program in computational neuroscience](https://www.tu-chemnitz.de/tu/pressestelle/aktuell/9853)
+<br></br>
+:::
+
+### **Chemnitz University of Technology**
+
+:::{.indented-paragraph}
+<span class="large-text"><i class="fa-solid fa-calendar-days fa-1x" aria-label="calendar-days"></i>&nbsp;&nbsp;2017 -- 2019</span>
+
+Master of Science
+
+[Sensors & Cognitive Psychology](https://www.tu-chemnitz.de/physik/SEKO/)
+<br></br>
+:::
+
+### **Chemnitz University of Technology**
+
+:::{.indented-paragraph}
+<span class="large-text"><i class="fa-solid fa-calendar-days fa-1x" aria-label="calendar-days"></i>&nbsp;&nbsp;2014 -- 2017</span>
+
+
+Bachelor of Science
+
+[Sensors & Cognitive Psychology](https://www.tu-chemnitz.de/physik/SEKO/)
+<br></br>
+:::
+
+
+
+## {{< fa award size=1x >}}&nbsp;&nbsp;**Funding and Awards**
+
+:::{.callout-note collapse="true" icon="false"}
+## DFG "The Active Self" (HA2630/12-2)<span style="float:right;">2024</span>
+
+[SPP 2134](https://activeself.de/)
+
+"Dynamic and adaptive body schema by learning to predict the sensory consequences of actions."
+
+Role: Research
+:::
+
+:::{.callout-note collapse="true" icon="false"}
+## DFG "Hybrid Societies"<span style="float:right;">2023 -- 2024</span>
+
+[SFB 1410](https://hybrid-societies.org/)
+
+"Learning Flexible Decision Making and Motor Control in Robots for Human-Robot Interaction"
+
+Role: Research
+:::
+
+:::{.callout-note collapse="true" icon="false"}
+## BMBF "Multilateral cooperation D - USA - ISR - F"<span style="float:right;">2021 -- 2022</span>
+
+[BMBF 01GQ1707](https://www.gesundheitsforschung-bmbf.de/de/multi-level-computermodelle-der-fehlfunktion-von-basalganglien-beim-tourette-syndrome-8192.php)
+
+"Multi-level computer modeling of basal ganglia dysfunction in Tourette syndrome"
+
+Role: Research
+:::
+
+:::{.callout-note collapse="true" icon="false"}
+## DFG "Computational Connectomics" (HA2630/11-1 & HA2630/11-2)<span style="float:right;">2020 -- 2024</span>
+
+[SPP 2041](https://spp2041.de/)
+
+"Clinical Connectomics: A network approach to deep brain stimulation"
+
+Role: Research
+:::
+
+:::{.callout-note collapse="true" icon="false"}
+## SMARTSTART <span style="float:right;">2019 -- 2020</span>
+
+["The joint training program in computational 
+neuroscience"](https://www.tu-chemnitz.de/tu/pressestelle/aktuell/9853)
+
+Role: Design, Research
+:::
+
+
+<div style="margin-bottom: 40px;"></div>
+
+
+
+## {{< fa paper-plane size=1x >}}&nbsp;&nbsp;**Skills**
+
+:::{.columns}
+
+:::{.column width=30%}
+
+**Languages**
+
+:::
+
+:::{.column width=70%}
+
+**German**, English
+
+:::
+
+:::
+
+:::{.columns}
+
+:::{.column width=30%}
+
+**Office**
+
+:::
+
+:::{.column width=70%}
+
+**Linux**, **VS Code**, **Git**, Windows, MS Office, Inkscape, Latex, Quarto, SPSS
+
+:::
+
+:::
+
+:::{.columns}
+
+:::{.column width=30%}
+
+**Programming**
+
+:::
+
+:::{.column width=70%}
+
+**Python**, Matlab, R, Mathematica, C++, Arduino, HTML
+
+:::
+
+:::

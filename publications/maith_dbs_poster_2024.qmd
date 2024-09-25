@@ -30,7 +30,7 @@ abstract: |
   DBS-induced behavioral changes in our model are mediated through both acute activity changes and modulated plasticity within the basal ganglia circuitry. The suppression DBS variant shows a necessity for both plasticity modulation and acute changes, while the stimulate-efferents variant influences behavior primarily through modulating plasticity. These findings suggest multiple pathways to similar behavioral outcomes, underscoring DBS's complexity and the importance of tailored treatment protocols.
 
   Our modelling results propose that GPi DBS promotes habitual behavior formed by cortico-thalamic shortcuts by reducing the influence of the basal ganglia on decision. These insights enhance our understanding of DBS mechanisms and offer interesting implications for DBS as a treatment particularly related to habit behavior.
-materials: "../posters/maith_dbs_poster_2024.pdf"
+materials: "/posters/maith_dbs_poster_2024.pdf"
 ---
 
 > Maith, O., & Hamker, F. (2024). Deep Brain Stimulation in the Globus Pallidus internus Promotes Habitual Behavior by Modulating Cortico-Thalamic Shortcuts and Basal Ganglia Plasticity. *Bernstein Conference 2024*. doi: 10.12751/nncn.bc2024.147

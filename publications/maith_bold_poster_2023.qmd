@@ -30,7 +30,7 @@ abstract: |
   ANNarchy is a neurosimulator for spiking and rate-coded neural networks, offering an equation-based interface that provides users with intuitive flexibility. This has also been integrated into our BOLD monitor, which offers the option of using predefined BOLD monitors based on the Balloon Model or custom equations for BOLD computation. Moreover, the flexibility extends to the ability to define the neuronal variables on which BOLD signal computation is based.
 
   The significance of our BOLD monitor goes beyond enabling modelers to generate BOLD signals from their neural networks; it also serves as a valuable tool to investigate the coupling between neural processes and the BOLD signal, as well as related processes like cerebral blood flow (CBF) and cerebral metabolic rate of oxygen (CMRO2). This feature facilitates the study of the coupling between neuronal processes, CBF, and CMRO2. To illustrate this, we showcase the implementation of various coupling hypotheses between neuronal processes, CBF, and CMRO2, thereby highlighting their specific impacts on the simulated BOLD signals.
-materials: "../posters/maith_bold_poster_2023.pdf"
+materials: "/posters/maith_bold_poster_2023.pdf"
 ---
 
 > Maith, O., Dinkelbach, H., & Hamker, F. (2023). BOLD Monitoring in the Neural Simulator ANNarchy. *Bernstein Conference 2023*. doi: 10.12751/nncn.bc2023.201 
