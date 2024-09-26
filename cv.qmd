@@ -82,7 +82,7 @@ in [Sensors & Cognitive Psychology](https://www.tu-chemnitz.de/physik/SEKO/)
 to the plasticity of the STN - GPe loop: a basal ganglia neuro-
 computational model*
 
-Supervisor: Prof. Fred Hamker, Dr.Javier Baladron
+Supervisor: Prof. Fred Hamker, Dr. Javier Baladron
 <br></br>
 :::
 

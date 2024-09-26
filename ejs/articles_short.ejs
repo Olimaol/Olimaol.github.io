@@ -5,7 +5,7 @@
   <% if (item.type == "article") { %>
     <li <%= metadataAttrs(item) %>>
       <p>
-      <%= item.title %>. <i><%= item.publication %></i>. (<%= item.year %>). <a class="fa-solid fa-link" href="<%- item.path %>"></a>
+      <%= item.title %>. <i><%= item.publication %></i>. (<%= item.year %>). <a class="fa-solid fa-link" href="<%- item.path %>" target="_self"></a>
       </p>
       <!-- <p>
           <span class="listing-title lead"><%= item.title %></span><br />
