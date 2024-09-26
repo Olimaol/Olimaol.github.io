@@ -1,6 +1,6 @@
 ---
 title: "Exploration biased by former stimulus-response associations due to plasticity in the subthalamic nucleus – external globus pallidus loop in the basal ganglia"
-type: "article"
+type: "poster"
 author:
   - name: Oliver Maith
     orcid: 0000-0002-6446-9110

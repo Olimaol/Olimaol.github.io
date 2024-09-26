@@ -6,3 +6,4 @@ title: "Neurocognition - Basal Ganglia"
 - stop signal task
 - attention learning
 - eriks MA
+- prediction

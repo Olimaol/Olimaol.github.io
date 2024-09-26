@@ -3,19 +3,13 @@ title: "M.Sc. Oliver Maith"
 about:
   template: jolla
   image: images/profile.JPG
-format:
-  html:
-    include-in-header:
-      - text: |
-          <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/all.css" rel="stylesheet">
-          <link href="site_libs/quarto-contrib/fontawesome6-0.1.0/latex-fontsize.css" rel="stylesheet">
-          <link href="site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
-          <link href="site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet">
 ---
+<!-- Need this comment to let quarto load the academicons (by using html this is not loaded)
+{{< ai google-scholar size=1x title="Scholar" >}} -->
 
 {{< fa briefcase size=1x title="Email" >}}&nbsp;&nbsp;PhD Student at [Professorship Artificial Intelligence, TU Chemnitz](https://www.tu-chemnitz.de/informatik/KI/index.php.en)
 
-I have a strong interest in computational neuroscience, particularly in modeling neuronal processes related to cognition and neurophysiological disorders. My current work focuses on simulating Deep Brain Stimulation, exploring the behavioral functions of the basal ganglia, and integrating neuronal data across different scales with computational models of both the functional and dysfunctional basal ganglia.
+I am strongly interested in computational neuroscience, particularly in modeling neuronal processes related to cognition and neurophysiological disorders. My current work focuses on simulating Deep Brain Stimulation, exploring the behavioral functions of the basal ganglia, and integrating neuronal data across different scales with computational models of both the functional and dysfunctional basal ganglia.
 
 <hr class="about-sep center-block">
 

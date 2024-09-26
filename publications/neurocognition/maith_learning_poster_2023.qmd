@@ -1,0 +1,33 @@
+---
+title: "Learning top-down visual attention within a model of a visual cortex-basal ganglia-prefrontal cortex loop"
+type: "poster"
+author:
+  - name: Oliver Maith
+    orcid: 0000-0002-6446-9110
+    affiliation:
+      - ref: tuchemnitz
+  - name: Erik Syniawa
+    orcid: 0009-0002-7239-702X
+    affiliation:
+      - ref: tuchemnitz
+  - name: Fred Hamker
+    orcid: 0000-0001-9104-7143
+    affiliation:
+      - ref: tuchemnitz
+affiliations:
+  - id: tuchemnitz
+    name: Department of Computer Science, Chemnitz University of Technology, Chemnitz, Germany
+    url: https://www.tu-chemnitz.de/informatik/KI/index.php.en
+year: "2023"
+publication: "Rovereto Attention Workshop 2023"
+toc: false
+categories:
+  - conference poster
+abstract: |
+  Visual search is an everyday challenge for humans in which selective attention is crucial for identifying target stimuli in a cluttered visual scene. While substantial research explores the impact of visual attention on performance in visual search tasks and associated neural mechanisms, limited research has been directed to understand the emergence of top-down attention. Existing studies often assume a guided search, wherein a predefined attentional-template, usually aligned with the search target, directs top-down attention. 
+
+  In this study we investigate the formation of such an attentional-template. For this, we develop a neuro-computational model that combines a systems-level model of visual attention with a model of the cortex - basal ganglia loop. Our model achieves human-like performance in visual search tasks by learning appropriate top-down attentional signals compared to data from Navalpakkam & Itti (Neuron, 2007) and Kerzel (Journal of Experimental Psychology, 2020). Consistent with findings, the model develops attentional-templates that deviate from the search target in visual search tasks with distractors that resemble the target. This is because the model increases the signal-to-noise ratio between the target and the distractors while tuning top-down attention. 
+
+  Our work provides a novel framework for comprehending the emergence of task-specific top-down attentional signals during visual search. Our results underscore the capacity of an open loop between the visual cortex and the basal ganglia to learn and optimize attention signals via reinforcement learning mechanisms within the basal ganglia.
+materials: "/posters/maith_learning_poster_2023.pdf"
+---

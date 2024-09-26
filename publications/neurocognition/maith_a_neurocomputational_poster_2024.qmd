@@ -1,0 +1,31 @@
+---
+title: "A Neurocomputational Model of Basal Ganglia-Intralaminar Nuclei Interactions: Implications for Attentional Orienting and Sense of Agency"
+type: "poster"
+author:
+  - name: Oliver Maith
+    orcid: 0000-0002-6446-9110
+    affiliation:
+      - ref: tuchemnitz
+  - name: Erik Syniawa
+    orcid: 0009-0002-7239-702X
+    affiliation:
+      - ref: tuchemnitz
+  - name: Fred Hamker
+    orcid: 0000-0001-9104-7143
+    affiliation:
+      - ref: tuchemnitz
+affiliations:
+  - id: tuchemnitz
+    name: Department of Computer Science, Chemnitz University of Technology, Chemnitz, Germany
+    url: https://www.tu-chemnitz.de/informatik/KI/index.php.en
+year: "2024"
+publication: "DFG SPP “The Active Self” Symposium 2024"
+toc: false
+categories:
+  - conference poster
+abstract: |
+  The sense of agency, the feeling of control over our actions and their outcomes, is a fundamental aspect of human experience. While it is traditionally associated with higher-order cognitive processes, it would be naïve to posit that the sense of agency is based purely on top-down cortical mechanisms. Subcortically, the basal ganglia and intralaminar thalamic nuclei, in particular the centro median-parafascicular complex (CM-Pf), form intricate loops with the cortex that are crucial for attentional orienting. However, the exact computational mechanisms underlying these interactions are still unclear.
+
+  To elucidate these mechanisms, we present a neurocomputational model of a cortico-basal ganglia-thalamic network that replicates Minamimoto and Kimura’s (2002) findings on attentional orienting. As in their empirical results, our model shows that CM-Pf activity patterns are a correlate between predictable and unpredictable sensory events. The attentional shifts mediated by CM-Pf also provide a mechanistic explanation for how we can distinguish our generated (predictable) actions from the environment-induced (unpredictable) events. This would be an important mechanism in the formation of association between our actions and their outcomes.
+materials: "/posters/maith_a_neurocomputational_poster_2024.pdf"
+---

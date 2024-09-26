@@ -1,6 +1,6 @@
 ---
 title: "Deep Brain Stimulation in the Globus Pallidus internus Promotes Habitual Behavior by Modulating Cortico-Thalamic Shortcuts and Basal Ganglia Plasticity"
-type: "article"
+type: "poster"
 author:
   - name: Oliver Maith
     orcid: 0000-0002-6446-9110

@@ -1,0 +1,44 @@
+---
+title: "Synaptic plasticity in the STN – GPe loop biases exploration towards past rewarded responses"
+type: "poster"
+author:
+  - name: Oliver Maith
+    orcid: 0000-0002-6446-9110
+    affiliation:
+      - ref: tuchemnitz
+  - name: Javier Baladron
+    orcid: 0000-0003-4084-4905
+    affiliation:
+      - ref: tuchemnitz
+      - ref: chile
+  - name: Wolfgang Einhäuser
+    orcid: 0000-0001-7516-9589
+    affiliation:
+      - ref: tuchemnitzphysik
+  - name: Fred Hamker
+    orcid: 0000-0001-9104-7143
+    affiliation:
+      - ref: tuchemnitz
+affiliations:
+  - id: tuchemnitz
+    name: Department of Computer Science, Chemnitz University of Technology, Chemnitz, Germany
+    url: https://www.tu-chemnitz.de/informatik/KI/index.php.en
+  - id: chile
+    name: Departamento de Ingeniería Informática, Universidad de Santiago de Chile, Santiago, Chile
+    url: https://informatica.usach.cl/academico/javier-baladron-pezoa/
+  - id: tuchemnitzphysik
+    name: Institute of Physics, Chemnitz University of Technology, Chemnitz, Germany
+    url: https://www.tu-chemnitz.de/physik/PHKP/index.html.en
+year: "2023"
+publication: "IBAGS Conference 2023"
+toc: false
+categories:
+  - conference poster
+abstract: |
+  Despite much research and growing experimental data, an adequate understanding of decision-making at a mechanistic description level is still lacking. In our study, we investigate exploration behaviour by combining neuro-computational modeling and a behavioural experiment. We show that quite complex behaviour can be explained by a small sub-circuit - the STN-GPe loop - within the basal ganglia.   
+
+  Our experiment has been motivated by a prediction of our neuro-computational model of the basal ganglia. A particular novelty of this model is dopamine-modulated synaptic plasticity in the connectivity between the subthalamic nucleus (STN) and the external globus pallidus (GPe) of the basal ganglia. This adaptive sub-circuit enables the basal ganglia to stimulate alternative responses following negative reward prediction errors biased by past experiences. After a reversal, the indirect pathway not only inhibits the previously correct response but also retrieves the information stored in the STN-GPe loop and excites responses that were rewarded in the past. This extension of the basal ganglia function fits well with the recent observations, that address subcircuits in the basal ganglia and assigning various functions to it. The STN-GPe loop is often referred to malfunction, e.g. in Parkinson disease, but to our knowledge, however, little attention has been paid to its possible functional role, such as in exploration behaviour.   
+
+  We tested the model prediction by means of a new version of a reversal learning task – a 5-choice reversal learning task with alternating position-reward contingencies – and analyzed if and how humans incorporate previous experience when exploring response options. With our new task, we extend the reversal learning research in which there has been no focus on exploration behavior so far. We found that humans preferentially explore previously rewarded response options which was in good quantitative agreement with our model’s prediction. In particular, this preference evolves in a continuously progressive manner, suggesting an implicit learning process rather than explicit rule application. Our results point towards an interesting function of the STN-GPe loop.
+materials: "/posters/maith_synaptic_poster_2023.pdf"
+---

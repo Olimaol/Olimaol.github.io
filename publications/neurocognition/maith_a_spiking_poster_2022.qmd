@@ -1,6 +1,6 @@
 ---
 title: "A spiking model of the basal ganglia demonstrates several complementary movement-cancellation mechanisms"
-type: "article"
+type: "poster"
 author:
   - name: Oliver Maith
     orcid: 0000-0002-6446-9110

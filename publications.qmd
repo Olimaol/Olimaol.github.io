@@ -1,9 +1,9 @@
 ---
-title: "Publications"
+title: "**Publications**"
 toc: false
 listing:
   - id: articles
-    contents: "publications/**.qmd"
+    contents: "publications/*/**.qmd"
     template: ./ejs/articles.ejs
     categories: true
     sort:

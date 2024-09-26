@@ -1,5 +1,5 @@
 ---
-title: "**Oliver Maith**"
+title: "**M.Sc. Oliver Maith**"
 toc-depth: 2
 ---
 
@@ -12,7 +12,7 @@ PhD Student / Researcher in Computational Neuroscience
 :::{.indented-paragraph}
 <span class="large-text"><i class="fa-solid fa-calendar-days fa-1x" aria-label="calendar-days"></i>&nbsp;&nbsp;Nov 2019 – Current</span>
 
-At [Professorship Artifical Intelligence](https://www.tu-chemnitz.de/informatik/KI)
+At [Professorship Artificial Intelligence](https://www.tu-chemnitz.de/informatik/KI)
 
 I primarily develop neural networks using the [ANNarchy](https://annarchy.github.io/) neural simulator in Python and produce scientific documents.
 
@@ -37,35 +37,52 @@ I have taught experimental physics to students from 1st to 12th grade and superv
 
 ## {{< fa solid graduation-cap size=1x >}}&nbsp;&nbsp;**Education**
 
-### **SmartStart 2**
+### **Ph.D.**
 
 :::{.indented-paragraph}
-<span class="large-text"><i class="fa-solid fa-calendar-days fa-1x" aria-label="calendar-days"></i>&nbsp;&nbsp;2019 -- 2020</span>
+<span class="large-text"><i class="fa-solid fa-calendar-days fa-1x" aria-label="calendar-days"></i>&nbsp;&nbsp;2020 -- Current</span>
 
-[The joint training program in computational neuroscience](https://www.tu-chemnitz.de/tu/pressestelle/aktuell/9853)
+At Chemnitz University of Technology
+
+in [Computer Science](https://www.tu-chemnitz.de/informatik/KI/)
+
+*Network Mechanisms of Action of Deep Brain Stimulation inferred from 
+resting-state fMRI using a spiking neural model of the whole Basal Ganglia*
+
+Supervisor: Prof. Fred Hamker
 <br></br>
 :::
 
-### **Chemnitz University of Technology**
+### **Master of Science**
 
 :::{.indented-paragraph}
 <span class="large-text"><i class="fa-solid fa-calendar-days fa-1x" aria-label="calendar-days"></i>&nbsp;&nbsp;2017 -- 2019</span>
 
-Master of Science
+At Chemnitz University of Technology
 
-[Sensors & Cognitive Psychology](https://www.tu-chemnitz.de/physik/SEKO/)
+in [Sensors & Cognitive Psychology](https://www.tu-chemnitz.de/physik/SEKO/)
+
+*Precise feature gain tuning in visual search tasks - the 
+basal ganglia makes it possible: A neuro-computational study*
+
+Supervisor: Prof. Fred Hamker, M.Sc. Alex Schwarz
 <br></br>
 :::
 
-### **Chemnitz University of Technology**
+### **Bachelor of Science**
 
 :::{.indented-paragraph}
 <span class="large-text"><i class="fa-solid fa-calendar-days fa-1x" aria-label="calendar-days"></i>&nbsp;&nbsp;2014 -- 2017</span>
 
+At Chemnitz University of Technology
 
-Bachelor of Science
+in [Sensors & Cognitive Psychology](https://www.tu-chemnitz.de/physik/SEKO/)
 
-[Sensors & Cognitive Psychology](https://www.tu-chemnitz.de/physik/SEKO/)
+*Changes in the probabilities of explored alternative actions due
+to the plasticity of the STN - GPe loop: a basal ganglia neuro-
+computational model*
+
+Supervisor: Prof. Fred Hamker, Dr.Javier Baladron
 <br></br>
 :::
 
@@ -114,7 +131,7 @@ Role: Research
 :::
 
 :::{.callout-note collapse="true" icon="false"}
-## SMARTSTART <span style="float:right;">2019 -- 2020</span>
+## SMARTSTART 2 <span style="float:right;">2019 -- 2020</span>
 
 ["The joint training program in computational 
 neuroscience"](https://www.tu-chemnitz.de/tu/pressestelle/aktuell/9853)

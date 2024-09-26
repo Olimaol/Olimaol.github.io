@@ -1,29 +1,99 @@
 ---
-title: "Research"
+title: "**Research**"
+toc: false
+listing:
+  - id: neurocognition
+    contents: "publications/neurocognition/**.qmd"
+    template: ./ejs/articles_short.ejs
+    categories: false
+    sort:
+      - "year desc"
+      - "title"
+  - id: neuroinformatics
+    contents: "publications/neuroinformatics/**.qmd"
+    template: ./ejs/articles_short.ejs
+    categories: false
+    sort:
+      - "year desc"
+      - "title"
+  - id: parkinson_dbs
+    contents: "publications/parkinson_dbs/**.qmd"
+    template: ./ejs/articles_short.ejs
+    categories: false
+    sort:
+      - "year desc"
+      - "title"
 ---
+<!-- Need this comment to let quarto load the fontawesome (by using html this is not loaded)
+{{< fa link size=1x title="Link" >}} -->
 
-Projects on which I work
+### **Neurocognition - Basal Ganglia**
 
-On the Research site each top-level project gets a small introduction text
+:::{.columns}
 
-Each top-level project gets an own page with more detailed summary texts, figures, related publications and supervised bachelor/master theses
+:::{.column width=60%}
+My research focuses on the basal ganglia, a group of subcortical regions involved in motor control and various cognitive functions. Using spiking and rate-coded neural networks inspired by the biological system, I explore potential cognitive functions such as reinforcement learning, reversal learning, action cancellation, and outcome prediction.
+:::
 
-structure:
+:::{.column width=40%}
+![](/images/poster_active_self_2024_task.png){fig-alt="A cueing experimental procedure" .lightbox group="my-gallery" description="A cueing experimental procedure"}
+:::
 
-## [Neurocognition - Basal Ganglia](research/neurocognition.qmd)
-- stn-gpe learning
-- stop signal task
-- attention learning
-- eriks MA
+:::
 
-## [DBS & Parkinson's Disease](research/dbs_parkinson.qmd)
-- Parkinson fit paper
-- submitted DBS paper
-- jil maier paper
-- Ilianas MA + fitting arbeiten
-- daves BA
+:::{.callout-note collapse="true" icon="false" title="Publications"}
 
-## [Neuroinformatics](research/neuroinformatics.qmd)
-- ANNarchy BOLD monitor
-- Simulating Deep Brain Stimulation
-- CompNeuroPy
+:::{#neurocognition}
+:::
+
+:::
+
+<br></br>
+
+
+### **Parkinson's Disease & Deep Brain Stimulation**
+
+:::{.columns}
+
+:::{.column width=60%}
+The basal ganglia play a crucial role in neurological disease such as Parkinson’s Disease. Using computational models of the basal ganglia, combined with experimental neurological and imaging data, I investigate how disease-related changes affect basal ganglia circuitry and how treatments like Deep Brain Stimulation can influence these pathological circuits.
+:::
+
+:::{.column width=40%}
+![](/images/ejn_2020_rate_changes.jpg){fig-alt="Basal Ganglia Activity Changes caused by Parkinson's Disease" .lightbox group="my-gallery" description="Basal Ganglia Activity Changes caused by Parkinson's Disease"}
+:::
+
+:::
+
+:::{.callout-note collapse="true" icon="false" title="Publications"}
+
+:::{#parkinson_dbs}
+:::
+
+:::
+
+<br></br>
+
+
+### **Neuroinformatics**
+
+:::{.columns}
+
+:::{.column width=60%}
+I build and simulate my neurocomputational models using the Python neurosimulator [ANNarchy](https://annarchy.github.io/). I have developed a method that enables the simulation of Blood Oxygen Level Dependent (BOLD) signals from ANNarchy networks. Additionally, I am working on my own Python extension for ANNarchy called [CompNeuroPy](https://olimaol.github.io/CompNeuroPy), which, for example, facilitates structuring code and implementing experimental procedures and allows for the simulation of Deep Brain Stimulation in both rate-coded and spiking ANNarchy networks.
+:::
+
+:::{.column width=40%}
+![](/images/fninf_2022_bold_example.jpg){fig-alt="Firing Rate to BOLD Signal" .lightbox group="my-gallery" description="Firing Rate to BOLD Signal"}
+:::
+
+:::
+
+:::{.callout-note collapse="true" icon="false" title="Publications"}
+
+:::{#neuroinformatics}
+:::
+
+:::
+
+<br></br>

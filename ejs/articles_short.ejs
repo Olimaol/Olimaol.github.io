@@ -1,0 +1,35 @@
+
+```{=html}
+<ul class="pub-list list">
+<% for (const item of items) { %>
+  <% if (item.type == "article") { %>
+    <li <%= metadataAttrs(item) %>>
+      <p>
+      <%= item.title %>. <i><%= item.publication %></i>. (<%= item.year %>). <a class="fa-solid fa-link" href="<%- item.path %>"></a>
+      </p>
+      <!-- <p>
+          <span class="listing-title lead"><%= item.title %></span><br />
+          <span class="listing-author"><%= item.author %></span><br />
+          <span class="listing-year">(<%= item.year %>).</span>
+          <span class="listing-publication fst-italic "><%= item.publication %></span><br />
+          <a href="<%- item.path %>" class="btn btn-primary">
+          Details
+          </a>
+          <% if (item.doi) { %>
+          <a href="https://doi.org/<%- item.doi %>" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+          DOI
+          </a>
+          <% } %>
+          <% if (item.materials) { %>
+          <a href="<%- item.materials %>" class="btn btn-light" target="_blank" rel="noopener noreferrer">
+              <i class="fas fa-file-pdf"></i> PDF
+          </a>
+          <% } %>
+          <br>
+      </p> -->
+    </li>
+  <% } %>
+<% } %>
+</ul>
+
+```

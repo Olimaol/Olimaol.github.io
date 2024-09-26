@@ -6,9 +6,9 @@ website:
   navbar:
     right:
       - href: index.qmd
-        text: "Home"
+        text: "**Home**"
       - href: cv.qmd
-        text: "CV"
+        text: "**CV**"
       - research.qmd
       - publications.qmd
   back-to-top-navigation: true

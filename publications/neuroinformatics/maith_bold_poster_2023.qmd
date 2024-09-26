@@ -1,6 +1,6 @@
 ---
 title: "BOLD Monitoring in the Neural Simulator ANNarchy"
-type: "article"
+type: "poster"
 author:
   - name: Oliver Maith
     orcid: 0000-0002-6446-9110

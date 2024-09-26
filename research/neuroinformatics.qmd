@@ -2,5 +2,6 @@
 title: "Neuroinformatics"
 ---
 
-- BOLD simulation
+- ANNarchy BOLD monitor
+- Simulating Deep Brain Stimulation
 - CompNeuroPy
