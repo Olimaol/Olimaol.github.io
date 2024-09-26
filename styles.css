@@ -1,0 +1,19 @@
+/* css styles */
+/* @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css'); */
+@import url('https://www.w3schools.com/w3css/4/w3.css');
+.center {
+text-align: center;
+}
+
+.center-block {
+display: flex;
+justify-content: center; /* Horizontal centering */
+}
+  
+.large-text {
+font-size: 20px;
+}
+
+.indented-paragraph {
+margin-left: 20px;
+}

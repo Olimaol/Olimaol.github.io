@@ -1,0 +1,177 @@
+[
+  {
+    "objectID": "publications/neuroinformatics/maith_bold_2022.html",
+    "href": "publications/neuroinformatics/maith_bold_2022.html",
+    "title": "BOLD Monitoring in the Neural Simulator ANNarchy",
+    "section": "",
+    "text": "Maith, O., Dinkelbach, H. Ü., Baladron, J., Vitay, J., & Hamker, F. H. (2022). BOLD Monitoring in the Neural Simulator ANNarchy. Frontiers in Neuroinformatics, 16. https://doi.org/10.3389/fninf.2022.790966\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "publications/neurocognition/maith_synaptic_poster_2023.html",
+    "href": "publications/neurocognition/maith_synaptic_poster_2023.html",
+    "title": "Synaptic plasticity in the STN – GPe loop biases exploration towards past rewarded responses",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "publications/neurocognition/maith_learning_poster_2023.html",
+    "href": "publications/neurocognition/maith_learning_poster_2023.html",
+    "title": "Learning top-down visual attention within a model of a visual cortex-basal ganglia-prefrontal cortex loop",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "publications/neurocognition/maith_a_neurocomputational_poster_2024.html",
+    "href": "publications/neurocognition/maith_a_neurocomputational_poster_2024.html",
+    "title": "A Neurocomputational Model of Basal Ganglia-Intralaminar Nuclei Interactions: Implications for Attentional Orienting and Sense of Agency",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "publications/neurocognition/maith_a_spiking_poster_2022.html",
+    "href": "publications/neurocognition/maith_a_spiking_poster_2022.html",
+    "title": "A spiking model of the basal ganglia demonstrates several complementary movement-cancellation mechanisms",
+    "section": "",
+    "text": "Maith, O., & Hamker, F. (2022). A spiking model of the basal ganglia demonstrates several complementary movement-cancellation mechanisms. Bernstein Conference 2022. doi: 10.12751/nncn.bc2022.188\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "publications/parkinson_dbs/maith_computational_2021.html",
+    "href": "publications/parkinson_dbs/maith_computational_2021.html",
+    "title": "A computational model-based analysis of basal ganglia pathway changes in Parkinson’s disease inferred from resting-state fMRI",
+    "section": "",
+    "text": "Maith, O., Escudero, F. V., Dinkelbach, H. Ü., Baladron, J., Horn, A., Irmen, F., Kühn, A. A., & Hamker, F. H. (2021). A computational model-based analysis of basal ganglia pathway changes in Parkinson’s disease inferred from resting-state fMRI. European Journal of Neuroscience, 53(7), 2278–2295. https://doi.org/10.1111/ejn.14868\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "publications/parkinson_dbs/maith_dbs_poster_2024.html",
+    "href": "publications/parkinson_dbs/maith_dbs_poster_2024.html",
+    "title": "Deep Brain Stimulation in the Globus Pallidus internus Promotes Habitual Behavior by Modulating Cortico-Thalamic Shortcuts and Basal Ganglia Plasticity",
+    "section": "",
+    "text": "Maith, O., & Hamker, F. (2024). Deep Brain Stimulation in the Globus Pallidus internus Promotes Habitual Behavior by Modulating Cortico-Thalamic Shortcuts and Basal Ganglia Plasticity. Bernstein Conference 2024. doi: 10.12751/nncn.bc2024.147\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "research/dbs_parkinson.html",
+    "href": "research/dbs_parkinson.html",
+    "title": "DBS & Parkinson’s Disease",
+    "section": "",
+    "text": "Parkinson fit paper\nsubmitted DBS paper\njil maier paper\nIlianas MA + fitting arbeiten\ndaves BA\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "research/neuroinformatics.html",
+    "href": "research/neuroinformatics.html",
+    "title": "Neuroinformatics",
+    "section": "",
+    "text": "ANNarchy BOLD monitor\nSimulating Deep Brain Stimulation\nCompNeuroPy\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Publication\n        \n         \n          Year\n        \n     \n  \n    \n      \n      \n    \n\n\n\n  \n    \n        A Neurocomputational Model of Basal Ganglia-Intralaminar Nuclei Interactions: Implications for Attentional Orienting and Sense of Agency\n        Oliver Maith, Erik Syniawa, Fred Hamker\n        (2024).\n        DFG SPP “The Active Self” Symposium 2024\n        \n        Details\n        \n        \n        \n        \n             PDF\n        \n        \n        \n    \n  \n\n  \n    \n        Deep Brain Stimulation in the Globus Pallidus internus Promotes Habitual Behavior by Modulating Cortico-Thalamic Shortcuts and Basal Ganglia Plasticity\n        Oliver Maith, Fred Hamker\n        (2024).\n        Bernstein Conference 2024\n        \n        Details\n        \n        \n        \n        DOI\n        \n        \n        \n        \n             PDF\n        \n        \n        \n    \n  \n\n  \n    \n        BOLD Monitoring in the Neural Simulator ANNarchy\n        Oliver Maith, Helge Ü. Dinkelbach, Fred Hamker\n        (2023).\n        Bernstein Conference 2023\n        \n        Details\n        \n        \n        \n        DOI\n        \n        \n        \n        \n             PDF\n        \n        \n        \n    \n  \n\n  \n    \n        Exploration behavior after reversals is predicted by STN-GPe synaptic plasticity in a basal ganglia model\n        Oliver Maith, Javier Baladron, Wolfgang Einhäuser, Fred Hamker\n        (2023).\n        iScience\n        \n        Details\n        \n        \n        \n        DOI\n        \n        \n        \n        \n    \n  \n\n  \n    \n        Learning top-down visual attention within a model of a visual cortex-basal ganglia-prefrontal cortex loop\n        Oliver Maith, Erik Syniawa, Fred Hamker\n        (2023).\n        Rovereto Attention Workshop 2023\n        \n        Details\n        \n        \n        \n        \n             PDF\n        \n        \n        \n    \n  \n\n  \n    \n        Synaptic plasticity in the STN – GPe loop biases exploration towards past rewarded responses\n        Oliver Maith, Javier Baladron, Wolfgang Einhäuser, Fred Hamker\n        (2023).\n        IBAGS Conference 2023\n        \n        Details\n        \n        \n        \n        \n             PDF\n        \n        \n        \n    \n  \n\n  \n    \n        A spiking model of the basal ganglia demonstrates several complementary movement-cancellation mechanisms\n        Oliver Maith, Fred Hamker\n        (2022).\n        Bernstein Conference 2022\n        \n        Details\n        \n        \n        \n        DOI\n        \n        \n        \n        \n             PDF\n        \n        \n        \n    \n  \n\n  \n    \n        BOLD Monitoring in the Neural Simulator ANNarchy\n        Oliver Maith, Helge Ü. Dinkelbach, Javier Baladron, Julien Vitay, Fred Hamker\n        (2022).\n        Frontiers in Neuroinformatics\n        \n        Details\n        \n        \n        \n        DOI\n        \n        \n        \n        \n    \n  \n\n  \n    \n        Virtual deep brain stimulation: Multiscale co-simulation of a spiking basal ganglia model and a whole-brain mean-field model with The Virtual Brain\n        Jil M. Meier, Dionysios Perdikis, André Blickensdörfer, Leon Stefanovski, Qin Liu, Oliver Maith, Helge Ü. Dinkelbach, Javier Baladron, Fred Hamker, Petra Ritter\n        (2022).\n        Experimental Neurology\n        \n        Details\n        \n        \n        \n        DOI\n        \n        \n        \n        \n    \n  \n\n  \n    \n        A computational model-based analysis of basal ganglia pathway changes in Parkinson’s disease inferred from resting-state fMRI\n        Oliver Maith, Francesc Villagrasa Escudero, Helge Ü. Dinkelbach, Javier Baladron, Andreas Horn, Friederike Irmen, Andrea A. Kühn, Fred Hamker\n        (2021).\n        European Journal of Neuroscience\n        \n        Details\n        \n        \n        \n        DOI\n        \n        \n        \n        \n    \n  \n\n  \n    \n        A spiking model of basal ganglia dynamics in stopping behavior supported by arkypallidal neurons\n        Lorenz Gönner, Oliver Maith, Iliana Koulouri, Javier Baladron, Fred Hamker\n        (2021).\n        European Journal of Neuroscience\n        \n        Details\n        \n        \n        \n        DOI\n        \n        \n        \n        \n    \n  \n\n  \n    \n        Optimal attention tuning in a neuro-computational model of the visual cortex–basal ganglia–prefrontal cortex loop\n        Oliver Maith, Alex Schwarz, Fred Hamker\n        (2021).\n        Neural Networks\n        \n        Details\n        \n        \n        \n        DOI\n        \n        \n        \n        \n    \n  \n\n  \n    \n        Exploration biased by former stimulus-response associations due to plasticity in the subthalamic nucleus – external globus pallidus loop in the basal ganglia\n        Oliver Maith, Javier Baladron, Fred Hamker\n        (2019).\n        Bernstein Conference 2019\n        \n        Details\n        \n        \n        \n        DOI\n        \n        \n        \n        \n             PDF\n        \n        \n        \n    \n  \n\n\n\n\nNo matching items\n\n\n  \n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "M.Sc. Oliver Maith",
+    "section": "",
+    "text": "PhD Student at Professorship Artificial Intelligence, TU Chemnitz\nI am strongly interested in computational neuroscience, particularly in modeling neuronal processes related to cognition and neurophysiological disorders. My current work focuses on simulating Deep Brain Stimulation, exploring the behavioral functions of the basal ganglia, and integrating neuronal data across different scales with computational models of both the functional and dysfunctional basal ganglia.\n\n\n  Email \n  GitHub \n  ORCID \n  Scholar \n  ResearchGate \n\n\n\n Back to top"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "M.Sc. Oliver Maith",
+    "section": "",
+    "text": "PhD Student / Researcher in Computational Neuroscience"
+  },
+  {
+    "objectID": "cv.html#work-experience",
+    "href": "cv.html#work-experience",
+    "title": "M.Sc. Oliver Maith",
+    "section": "  Work Experience",
+    "text": "Work Experience\n\nResearcher, Chemnitz University of Technology\n\n  Nov 2019 – Current\nAt Professorship Artificial Intelligence\nI primarily develop neural networks using the ANNarchy neural simulator in Python and produce scientific documents.\n\nResearch:\n\nComputational Neuroscience: basal ganglia, visual attention\nPsychophysics: eye-tracking\nNeuroinformatics: simulating BOLD1 and DBS2 \n\n\n\n\n\nLecturer, Chemnitz University of Technology\n\n  Jul 2016 – Mar 2019\nAt Institute of Physics\nI have taught experimental physics to students from 1st to 12th grade and supervised them during hands-on physics experiments."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "M.Sc. Oliver Maith",
+    "section": "  Education",
+    "text": "Education\n\nPh.D.\n\n  2020 – Current\nAt Chemnitz University of Technology\nin Computer Science\nNetwork Mechanisms of Action of Deep Brain Stimulation inferred from resting-state fMRI using a spiking neural model of the whole Basal Ganglia\nSupervisor: Prof. Fred Hamker \n\n\n\nMaster of Science\n\n  2017 – 2019\nAt Chemnitz University of Technology\nin Sensors & Cognitive Psychology\nPrecise feature gain tuning in visual search tasks - the basal ganglia makes it possible: A neuro-computational study\nSupervisor: Prof. Fred Hamker, M.Sc. Alex Schwarz \n\n\n\nBachelor of Science\n\n  2014 – 2017\nAt Chemnitz University of Technology\nin Sensors & Cognitive Psychology\nChanges in the probabilities of explored alternative actions due to the plasticity of the STN - GPe loop: a basal ganglia neuro- computational model\nSupervisor: Prof. Fred Hamker, Dr.Javier Baladron"
+  },
+  {
+    "objectID": "cv.html#funding-and-awards",
+    "href": "cv.html#funding-and-awards",
+    "title": "M.Sc. Oliver Maith",
+    "section": "  Funding and Awards",
+    "text": "Funding and Awards\n\n\n\n\n\n\nDFG “The Active Self” (HA2630/12-2)2024\n\n\n\n\n\nSPP 2134\n“Dynamic and adaptive body schema by learning to predict the sensory consequences of actions.”\nRole: Research\n\n\n\n\n\n\n\n\n\nDFG “Hybrid Societies”2023 – 2024\n\n\n\n\n\nSFB 1410\n“Learning Flexible Decision Making and Motor Control in Robots for Human-Robot Interaction”\nRole: Research\n\n\n\n\n\n\n\n\n\nBMBF “Multilateral cooperation D - USA - ISR - F”2021 – 2022\n\n\n\n\n\nBMBF 01GQ1707\n“Multi-level computer modeling of basal ganglia dysfunction in Tourette syndrome”\nRole: Research\n\n\n\n\n\n\n\n\n\nDFG “Computational Connectomics” (HA2630/11-1 & HA2630/11-2)2020 – 2024\n\n\n\n\n\nSPP 2041\n“Clinical Connectomics: A network approach to deep brain stimulation”\nRole: Research\n\n\n\n\n\n\n\n\n\nSMARTSTART 2 2019 – 2020\n\n\n\n\n\n“The joint training program in computational neuroscience”\nRole: Design, Research"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "M.Sc. Oliver Maith",
+    "section": "  Skills",
+    "text": "Skills\n\n\nLanguages\n\nGerman, English\n\n\n\n\nOffice\n\nLinux, VS Code, Git, Windows, MS Office, Inkscape, Latex, Quarto, SPSS\n\n\n\n\nProgramming\n\nPython, Matlab, R, Mathematica, C++, Arduino, HTML"
+  },
+  {
+    "objectID": "cv.html#footnotes",
+    "href": "cv.html#footnotes",
+    "title": "M.Sc. Oliver Maith",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nBlood Oxygenation Level Dependent (BOLD) imaging is a technique that is commonly used for measuring brain activity in humans using magnetic resonance imaging (MRI)↩︎\nDeep brain stimulation (DBS) is a surgical procedure that implants a neurostimulator and electrodes which sends electrical impulses to specified targets in the brain↩︎"
+  },
+  {
+    "objectID": "research/neurocognition.html",
+    "href": "research/neurocognition.html",
+    "title": "Neurocognition - Basal Ganglia",
+    "section": "",
+    "text": "stn-gpe learning\nstop signal task\nattention learning\neriks MA\nprediction\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Neurocognition - Basal Ganglia\n\n\nMy research focuses on the basal ganglia, a group of subcortical regions involved in motor control and various cognitive functions. Using spiking and rate-coded neural networks inspired by the biological system, I explore potential cognitive functions such as reinforcement learning, reversal learning, action cancellation, and outcome prediction.\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\n\n\n\n\n\n\n  \n\n  \n    \n      \n      Exploration behavior after reversals is predicted by STN-GPe synaptic plasticity in a basal ganglia model. iScience. (2023). \n      \n      \n    \n  \n\n  \n\n  \n\n  \n\n  \n    \n      \n      A spiking model of basal ganglia dynamics in stopping behavior supported by arkypallidal neurons. European Journal of Neuroscience. (2021). \n      \n      \n    \n  \n\n  \n    \n      \n      Optimal attention tuning in a neuro-computational model of the visual cortex–basal ganglia–prefrontal cortex loop. Neural Networks. (2021). \n      \n      \n    \n  \n\n  \n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\nParkinson’s Disease & Deep Brain Stimulation\n\n\nThe basal ganglia play a crucial role in neurological disease such as Parkinson’s Disease. Using computational models of the basal ganglia, combined with experimental neurological and imaging data, I investigate how disease-related changes affect basal ganglia circuitry and how treatments like Deep Brain Stimulation can influence these pathological circuits.\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\n\n\n\n\n\n\n  \n\n  \n    \n      \n      Virtual deep brain stimulation: Multiscale co-simulation of a spiking basal ganglia model and a whole-brain mean-field model with The Virtual Brain. Experimental Neurology. (2022). \n      \n      \n    \n  \n\n  \n    \n      \n      A computational model-based analysis of basal ganglia pathway changes in Parkinson’s disease inferred from resting-state fMRI. European Journal of Neuroscience. (2021). \n      \n      \n    \n  \n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\nNeuroinformatics\n\n\nI build and simulate my neurocomputational models using the Python neurosimulator ANNarchy. I have developed a method that enables the simulation of Blood Oxygen Level Dependent (BOLD) signals from ANNarchy networks. Additionally, I am working on my own Python extension for ANNarchy called CompNeuroPy, which, for example, facilitates structuring code and implementing experimental procedures and allows for the simulation of Deep Brain Stimulation in both rate-coded and spiking ANNarchy networks.\n\n\n\n\n\n\n\n\n\n\nPublications\n\n\n\n\n\n\n\n\n  \n\n  \n    \n      \n      BOLD Monitoring in the Neural Simulator ANNarchy. Frontiers in Neuroinformatics. (2022). \n      \n      \n    \n  \n\n\n\n\nNo matching items\n\n\n\n\n\n\n\n\n\n\n\nA cueing experimental procedure\n\n\nBasal Ganglia Activity Changes caused by Parkinson’s Disease\n\n\nFiring Rate to BOLD Signal\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "publications/parkinson_dbs/meier_virtual_2022.html",
+    "href": "publications/parkinson_dbs/meier_virtual_2022.html",
+    "title": "Virtual deep brain stimulation: Multiscale co-simulation of a spiking basal ganglia model and a whole-brain mean-field model with The Virtual Brain",
+    "section": "",
+    "text": "Meier, J. M., Perdikis, D., Blickensdörfer, A., Stefanovski, L., Liu, Q., Maith, O., Dinkelbach, H. Ü., Baladron, J., Hamker, F. H., & Ritter, P. (2022). Virtual deep brain stimulation: Multiscale co-simulation of a spiking basal ganglia model and a whole-brain mean-field model with The Virtual Brain. Experimental Neurology, 354, 114111. https://doi.org/10.1016/j.expneurol.2022.114111\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "publications/neurocognition/maith_optimal_2021.html",
+    "href": "publications/neurocognition/maith_optimal_2021.html",
+    "title": "Optimal attention tuning in a neuro-computational model of the visual cortex–basal ganglia–prefrontal cortex loop",
+    "section": "",
+    "text": "Maith, O., Schwarz, A., & Hamker, F. H. (2021). Optimal attention tuning in a neuro-computational model of the visual cortex–basal ganglia–prefrontal cortex loop. Neural Networks, 142, 534–547. https://doi.org/10.1016/j.neunet.2021.07.008\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "publications/neurocognition/maith_exploration_poster_2019.html",
+    "href": "publications/neurocognition/maith_exploration_poster_2019.html",
+    "title": "Exploration biased by former stimulus-response associations due to plasticity in the subthalamic nucleus – external globus pallidus loop in the basal ganglia",
+    "section": "",
+    "text": "Maith, O., Baladron, J., & Hamker, F. (2019). Exploration biased by former stimulus-response associations due to plasticity in the subthalamic nucleus – external globus pallidus loop in the basal ganglia. Bernstein Conference 2019. doi: 10.12751/nncn.bc2019.0052\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "publications/neurocognition/maith_exploration_2023.html",
+    "href": "publications/neurocognition/maith_exploration_2023.html",
+    "title": "Exploration behavior after reversals is predicted by STN-GPe synaptic plasticity in a basal ganglia model",
+    "section": "",
+    "text": "Maith, O., Baladron, J., Einhäuser, W., & Hamker, F. H. (2023). Exploration behavior after reversals is predicted by STN-GPe synaptic plasticity in a basal ganglia model. iScience, 26(5). https://doi.org/10.1016/j.isci.2023.106599\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "publications/neurocognition/goenner_spiking_2021.html",
+    "href": "publications/neurocognition/goenner_spiking_2021.html",
+    "title": "A spiking model of basal ganglia dynamics in stopping behavior supported by arkypallidal neurons",
+    "section": "",
+    "text": "Goenner*, L., Maith*, O., Koulouri, I., Baladron, J., & Hamker, F. H. (2021). A spiking model of basal ganglia dynamics in stopping behavior supported by arkypallidal neurons. European Journal of Neuroscience, 53(7), 2296–2321. https://doi.org/10.1111/ejn.15082\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "publications/neuroinformatics/maith_bold_poster_2023.html",
+    "href": "publications/neuroinformatics/maith_bold_poster_2023.html",
+    "title": "BOLD Monitoring in the Neural Simulator ANNarchy",
+    "section": "",
+    "text": "Maith, O., Dinkelbach, H., & Hamker, F. (2023). BOLD Monitoring in the Neural Simulator ANNarchy. Bernstein Conference 2023. doi: 10.12751/nncn.bc2023.201\n\n\n\n\n Back to top"
+  }
+]

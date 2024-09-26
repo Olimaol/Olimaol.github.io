@@ -1,0 +1,38 @@
+[
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/neurocognition/maith_a_neurocomputational_poster_2024.html",
+      "/publications/parkinson_dbs/maith_dbs_poster_2024.html",
+      "/publications/neuroinformatics/maith_bold_poster_2023.html",
+      "/publications/neurocognition/maith_exploration_2023.html",
+      "/publications/neurocognition/maith_learning_poster_2023.html",
+      "/publications/neurocognition/maith_synaptic_poster_2023.html",
+      "/publications/neurocognition/maith_a_spiking_poster_2022.html",
+      "/publications/neuroinformatics/maith_bold_2022.html",
+      "/publications/parkinson_dbs/meier_virtual_2022.html",
+      "/publications/parkinson_dbs/maith_computational_2021.html",
+      "/publications/neurocognition/goenner_spiking_2021.html",
+      "/publications/neurocognition/maith_optimal_2021.html",
+      "/publications/neurocognition/maith_exploration_poster_2019.html"
+    ]
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/publications/neurocognition/maith_a_neurocomputational_poster_2024.html",
+      "/publications/neurocognition/maith_exploration_2023.html",
+      "/publications/neurocognition/maith_learning_poster_2023.html",
+      "/publications/neurocognition/maith_synaptic_poster_2023.html",
+      "/publications/neurocognition/maith_a_spiking_poster_2022.html",
+      "/publications/neurocognition/goenner_spiking_2021.html",
+      "/publications/neurocognition/maith_optimal_2021.html",
+      "/publications/neurocognition/maith_exploration_poster_2019.html",
+      "/publications/neuroinformatics/maith_bold_poster_2023.html",
+      "/publications/neuroinformatics/maith_bold_2022.html",
+      "/publications/parkinson_dbs/maith_dbs_poster_2024.html",
+      "/publications/parkinson_dbs/meier_virtual_2022.html",
+      "/publications/parkinson_dbs/maith_computational_2021.html"
+    ]
+  }
+]
