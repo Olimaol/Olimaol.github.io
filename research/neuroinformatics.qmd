@@ -1,7 +1,0 @@
----
-title: "Neuroinformatics"
----
-
-- ANNarchy BOLD monitor
-- Simulating Deep Brain Stimulation
-- CompNeuroPy

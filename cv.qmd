@@ -14,12 +14,16 @@ PhD Student / Researcher in Computational Neuroscience
 
 At [Professorship Artificial Intelligence](https://www.tu-chemnitz.de/informatik/KI)
 
-I primarily develop neural networks using the [ANNarchy](https://annarchy.github.io/) neural simulator in Python and produce scientific documents.
+My work focuses on developing neural networks using the [ANNarchy](https://annarchy.github.io/) simulator in Python and producing scientific documents. I also deliver lectures and supervise exercise sessions for university students.
 
 * Research:
     * Computational Neuroscience: basal ganglia, visual attention
     * Psychophysics: eye-tracking
     * Neuroinformatics: simulating BOLD^[Blood Oxygenation Level Dependent (BOLD) imaging is a technique that is commonly used for measuring brain activity in humans using magnetic resonance imaging (MRI)] and DBS^[Deep brain stimulation (DBS) is a surgical procedure that implants a neurostimulator and electrodes which sends electrical impulses to specified targets in the brain]
+* Teaching:
+    * Neurocognition (bachelor/master)
+    * Deep Reinforcement Learning (master)
+* Erasmus+ departmental coordinator
 <br></br>
 :::
 

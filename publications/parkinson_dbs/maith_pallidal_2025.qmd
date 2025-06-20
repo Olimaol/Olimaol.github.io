@@ -1,0 +1,30 @@
+---
+title: "Pallidal Deep Brain Stimulation Enhances Habitual Behavior in a Neuro-Computational Basal Ganglia Model During a Reward Reversal Learning Task"
+type: "article"
+author:
+  - name: Oliver Maith
+    orcid: 0000-0002-6446-9110
+    affiliation:
+      - ref: tuchemnitz
+  - name: Dave Apenburg
+    affiliation:
+      - ref: tuchemnitz  
+  - name: Fred Hamker
+    orcid: 0000-0001-9104-7143
+    affiliation:
+      - ref: tuchemnitz
+affiliations:
+  - id: tuchemnitz
+    name: Department of Computer Science, Chemnitz University of Technology, Chemnitz, Germany
+    url: https://www.tu-chemnitz.de/informatik/KI/index.php.en
+year: "2025"
+publication: "European Journal of Neuroscience"
+doi: "10.1111/ejn.70130"
+toc: false
+categories:
+  - journal article
+abstract: |
+  Deep brain stimulation (DBS) within the basal ganglia is a widely used therapeutic intervention for neurological disorders; however, its precise mechanisms of action remain unclear. This study investigates how DBS may affect decision-making processes through computational modeling of the basal ganglia. A rate-coded model incorporating direct, indirect, and hyperdirect pathways was utilized alongside a cortico-thalamic shortcut known for promoting habitual behavior. Simulations of a two-choice reward reversal learning task were conducted to replicate data from patients with dystonia in ON and OFF DBS conditions. We demonstrate that plasticity in the cortico-thalamic shortcut, which bypasses the basal ganglia, is crucial for reproducing the patients' behavioral data, emphasizing the role of habit formation. Simulated DBS increased habitual behavior following reward reversal. Integrating different DBS mechanisms revealed that suppression of stimulated neurons, stimulation of efferent axons, and a combined variant promoted habitual behavior. Analyses of thalamic inputs showed that, despite differing effects on the model's activity and plasticity, these DBS variants consistently reduced the influence of the basal ganglia while enhancing the role of the cortico-thalamic shortcut. Notably, the DBS variants were distinguishable by their divergent behavioral effects following discontinued stimulation. These findings underscore the potential multifaceted effects of DBS on decision-making processes. In particular, our model proposes that DBS modulates the balance between reward-guided and habitual behavior.
+---
+
+> Maith, O., Apenburg, D., & Hamker, F. (2025). Pallidal Deep Brain Stimulation Enhances Habitual Behavior in a Neuro-Computational Basal Ganglia Model During a Reward Reversal Learning Task. *European Journal of Neuroscience*, *61*(9), e70130. https://doi.org/10.1111/ejn.70130
